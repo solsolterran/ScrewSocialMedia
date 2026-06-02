@@ -1,28 +1,18 @@
 # ScrewSocialMedia
 
-Run the script. Post the thing. Keep your soul.
-
 `ScrewSocialMedia` is for creators who know social media matters, but also know it's toxic, addictive, and generally terrible for the brain.
 
 I'm not pretending social media is useless. If you make videos, music, art, games, streams, writing, or basically anything online, you probably need to post somewhere. People still need to find your work.
 
-The point is to keep "post this update" from turning into opening five apps, checking notifications, obsessing over metrics, scrolling garbage, comparing yourself to strangers, getting annoyed by ragebait, and somehow losing an hour to websites you did not even want to visit.
+The point is to keep "post this update" from turning into opening five apps, checking notifications, obsessing over metrics, doom scrolling getting annoyed by ragebait, and somehow losing an hour to websites you did not even want to visit.
 
 This repo is meant to upload to most of the major social medias. Some platforms can be tested with normal OAuth credentials. Others need app review, allowlisting, business setup, or custom OAuth URLs. I'll write down the process, but I won't be doing it myself. Only the guide.
 
 ## The Idea
 
-If a creator needs to post videos, clips, announcements, links, or updates to Twitter, Bluesky, Reddit, Facebook, Instagram, Snapchat, TikTok, YouTube, or whatever platform becomes mandatory next week, that shouldn't require manually opening every site.
+A creator can post videos, clips, announcements, links, or updates to Twitter, Bluesky, Reddit, Facebook, Instagram, Snapchat, TikTok, YouTube, or whatever.
 
-Each social media platform should have its own script. It should take the info it needs, fail if something important is missing, and print the post/video link when it works.
-
-In other words:
-
-```text
-Made something.
-Throw it into the social media cesspool.
-Never think about it again.
-```
+Each social media platform has its own script. It takes the info it needs, fails if something important is missing, and print the post/video link when it works.
 
 ## Why?
 
